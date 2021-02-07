@@ -1,5 +1,5 @@
 title: Authenticator Pro
 logo: https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/ic_launcher-web.png
 description: Two-Factor Authentication (2FA) client for Android + Wear OS 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
