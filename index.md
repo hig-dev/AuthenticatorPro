@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+Authenticator Pro is a free open-source two factor authentication app for Android.
+It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using either SHA1, SHA256 or SHA512 hashing algorithms. Mobile-Otp (mOTP) and Steam are also supported.
 
-You can use the [editor on GitHub](https://github.com/jamie-mh/AuthenticatorPro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+View some supported providers here: [Two Factor Auth List](https://twofactorauth.org/) (marked with "software token")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quick Links
 
-### Markdown
+[Frequently Asked Questions](https://github.com/jamie-mh/AuthenticatorPro/wiki#frequently-asked-questions)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Contribution Guide](https://github.com/jamie-mh/AuthenticatorPro/blob/master/CONTRIBUTING.md)
 
-```markdown
-Syntax highlighted code block
+[Backup File Format](https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/BACKUP_FORMAT.md)
 
-# Header 1
-## Header 2
-### Header 3
+### Importing from other apps
 
-- Bulleted
-- List
+[Google Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Google-Authenticator)
 
-1. Numbered
-2. List
+[Blizzard Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Blizzard-Authenticator)
 
-**Bold** and _Italic_ and `Code` text
+[Steam](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Steam)
 
-[Link](url) and ![Image](src)
-```
+[Authy](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Authy)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Download
 
-### Jekyll Themes
+[<img alt="Get it on Google Play" height="100" src="https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/googleplay.png">](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamie-mh/AuthenticatorPro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[<img alt="Get it on F-Droid" height="100" src="https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/fdroid.png">](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro)
 
-### Support or Contact
+Please note, Authenticator Pro is currently only available on the IzzyOnDroid F-Droid repo (https://apt.izzysoft.de/fdroid/). You must first add this repository in the F-Droid client.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Features
+
+* **Compatibility** : Authenticator Pro is compatible with most providers and accounts. View some supported providers here: https://twofactorauth.org/ (marked with "software token").
+
+* **Backup / Restore** : Backup your authenticators with strong encryption. In case you lose your or change phone, you can always gain access to your accounts. Save to cloud storage or to your device.
+
+* **Dark Mode** : Authenticator Pro has a beautiful material design inspired look in either light or dark themes.
+
+* **Icons** : Find your authenticators easily with recognisable brand logos and icons next to each code.
+
+* **Categories** : Organise your authenticators into categories.
+
+* **Offline with few permissions** : Authenticator Pro only requires a single permission and does not require Internet access to function.
+
+* **Customisation** : Set icons and rename. You can also arrange your authenticators in any order you like so you can find them easily.
+
+* **Wear OS** : Quickly view your authenticators directly from your watch. Please note that a connection to your Android device is required.
+
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/screenshot2.png)
+![Screenshot 3](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/screenshot3.png)
+![Screenshot 4](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/screenshot4.png)
+![Screenshot 5](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/screenshot5.png)
+![Screenshot 6](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/screenshot6.png)
+![Screenshot 7](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/screenshot7.png)
+
+### Wear OS Companion
+
+![Screenshot 1](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/wearos_screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/wearos_screenshot2.png)
+![Screenshot 3](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/wearos_screenshot3.png)
+![Screenshot 4](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/wearos_screenshot4.png)
+![Screenshot 5](https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/doc/wearos_screenshot5.png)
